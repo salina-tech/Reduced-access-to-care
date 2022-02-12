@@ -7,4 +7,4 @@ The goal of this project is to provide a comparison of unmet care (due to COVID-
 ## Outline of analysis
 
 * Assessed data, scanning for duplicates and mismatched values.
-* Performed descriptive statistics the 3 rounds using Pandas, MatPlotLib, and the statsmodels module in Python.
+* Performed descriptive statistics the 3 rounds of recorded data of unment care using Pandas, MatPlotLib, and the statsmodels module in Python.
